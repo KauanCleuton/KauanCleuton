@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Guaiúba-CE<br>- 🔭 I'm new to programming<br>- 📚 I'm currently learning ReactJS and PHP<br>- ⚡ In my free time I like to study more things related to programming</p>
+<p align="left">I'm from Guaiúba-CE<br>- 🔭 I am currently working as a Freelancer<br>- 📚 I'm currently learning ReactJS and PHP<br>- ⚡ In my free time I like to study more things related to programming</p>
 
 ###
 
