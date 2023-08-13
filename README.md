@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Guaiúba-CE<br>- 🔭 Atualmente não estou trabalhando. <br>- 📚 Atualmente estou estudando React, NodeJS e TypeScript<br>- ⚡ No meu tempo livre, eu gosto de estudar, escultar música.</p>
+<p align="left">I'm from Guaiúba-CE<br>- 🔭 Atualmente não estou trabalhando. <br>- 📚 Atualmente estou estudando NodeJS<br>- ⚡ No meu tempo livre, eu gosto de estudar, escutar música, ir pra academia, e jogar bola.</p>
 
 ###
 
@@ -53,7 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
