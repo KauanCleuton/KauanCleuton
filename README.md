@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left" background="#fff"> 
+<div align="left" background="white"> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
   <img width="12" />
