@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Guaiúba-CE<br>- 🔭 Atualmente não estou trabalhando. <br>- 📚 Atualmente estou estudando NodeJS<br>- ⚡ No meu tempo livre, eu gosto de estudar, escutar música, ir pra academia, e jogar bola.</p>
+<p align="left">I'm from Guaiúba-CE<br>- 🔭 Atualmente estou trabalhando como estagiário empresa BrTech Software. <br>- 📚 Atualmente estou estudando NodeJS<br>- ⚡ No meu tempo livre, eu gosto de estudar, escutar música, ir pra academia, e jogar bola.</p>
 
 ###
 
