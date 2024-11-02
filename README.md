@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://github.com/KauanCleuton.png" style="border-radius: 10px;" />
 </div>
 
 ###
@@ -26,13 +26,24 @@
 
 <h1 align="center">Hello, i'am Kauan Cleuton 👋</h1>
 
-###
+<p align="left">📍 <strong>De:</strong> Guaiúba, Ceará, Brasil</p>
+<p align="left">💼 <strong>Trabalho:</strong> Estagiário em desenvolvimento web na <a href="https://brtech.dev">BrTech Software</a></p>
+<p align="left">🚀 <strong>Habilidades:</strong> Desenvolvedor <strong>Full Stack</strong> com experiência em <strong>Node.js</strong> e atualmente aprendendo <strong>React Native</strong></p>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
+<p align="left">Com uma paixão por desenvolvimento e inovação, estou sempre em busca de novos desafios. Com uma sólida base em <strong>Node.js</strong>, meu foco atual é aprimorar minhas habilidades em desenvolvimento mobile. Em breve, planejo me aprofundar em <strong>Docker</strong> para expandir meu conhecimento em infraestrutura e DevOps.</p>
 
-<p align="left">I'm from Guaiúba-CE<br>- 🔭 Atualmente estou trabalhando como estagiário na empresa BrTech Software. <br>- 📚 Atualmente estou estudando NodeJS <br>- ⚡ No meu tempo livre, eu gosto de estudar, programar projetos pessoais,escutar música, ir pra academia.</p>
+
+<h3 align="left">O que me motiva:</h3>
+
+<ul>
+    <li>💻 Desenvolver projetos pessoais que testam minhas habilidades</li>
+    <li>🎵 Escutar música enquanto trabalho e estudo</li>
+    <li>🏋️‍♂️ Manter a rotina na academia para equilibrar corpo e mente</li>
+    <li>📘 Aprender constantemente e explorar novas tecnologias</li>
+</ul>
+
+<p align="left">Explore meus repositórios e sinta-se à vontade para trocar ideias ou colaborar!</p>
 
 ###
 
